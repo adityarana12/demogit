@@ -7,7 +7,7 @@ public class array {
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in); 
 		  int x,c=0,b=0,a=0;
-		int arr[] = new int[20]; 
+		int arr[] = new int[10]; 
 		
 		System.out.println("Enter the integers: ");  
 		for(int i=0; i<arr.length; i++)  
